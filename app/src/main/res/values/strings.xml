@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica 03-Java</string>
+    <string name="usuario">Emiret</string>
+    <string name="contraseña">1234</string>
+</resources>
